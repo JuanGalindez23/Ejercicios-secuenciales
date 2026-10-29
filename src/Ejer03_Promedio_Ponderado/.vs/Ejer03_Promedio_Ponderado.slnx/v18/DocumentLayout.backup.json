@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\57314\\Documents\\Portafolio Juan Galindez\\Evidencias\\Analisis\\Tics\\Algoritmos y programacion\\Ejer03_Promedio_Ponderado\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7408DD9E-CD26-4E5F-87A2-ECD5FD5EB0D2}|Ejer03_Promedio_Ponderado\\Ejer03_Promedio_Ponderado.csproj|c:\\users\\57314\\documents\\portafolio juan galindez\\evidencias\\analisis\\tics\\algoritmos y programacion\\ejer03_promedio_ponderado\\ejer03_promedio_ponderado\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7408DD9E-CD26-4E5F-87A2-ECD5FD5EB0D2}|Ejer03_Promedio_Ponderado\\Ejer03_Promedio_Ponderado.csproj|solutionrelative:ejer03_promedio_ponderado\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\57314\\Documents\\Portafolio Juan Galindez\\Evidencias\\Analisis\\Tics\\Algoritmos y programacion\\Ejer03_Promedio_Ponderado\\Ejer03_Promedio_Ponderado\\Program.cs",
+              "RelativeDocumentMoniker": "Ejer03_Promedio_Ponderado\\Program.cs",
+              "ToolTip": "C:\\Users\\57314\\Documents\\Portafolio Juan Galindez\\Evidencias\\Analisis\\Tics\\Algoritmos y programacion\\Ejer03_Promedio_Ponderado\\Ejer03_Promedio_Ponderado\\Program.cs*",
+              "RelativeToolTip": "Ejer03_Promedio_Ponderado\\Program.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAABTAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-29T11:59:09.071Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

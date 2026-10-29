@@ -1,0 +1,15 @@
+C:\Users\57314\Documents\Portafolio Juan Galindez\Evidencias\Analisis\Tics\Algoritmos y programacion\Ejer03_Promedio_Ponderado\Ejer03_Promedio_Ponderado\bin\Debug\net10.0\Ejer03_Promedio_Ponderado.exe
+C:\Users\57314\Documents\Portafolio Juan Galindez\Evidencias\Analisis\Tics\Algoritmos y programacion\Ejer03_Promedio_Ponderado\Ejer03_Promedio_Ponderado\bin\Debug\net10.0\Ejer03_Promedio_Ponderado.deps.json
+C:\Users\57314\Documents\Portafolio Juan Galindez\Evidencias\Analisis\Tics\Algoritmos y programacion\Ejer03_Promedio_Ponderado\Ejer03_Promedio_Ponderado\bin\Debug\net10.0\Ejer03_Promedio_Ponderado.runtimeconfig.json
+C:\Users\57314\Documents\Portafolio Juan Galindez\Evidencias\Analisis\Tics\Algoritmos y programacion\Ejer03_Promedio_Ponderado\Ejer03_Promedio_Ponderado\bin\Debug\net10.0\Ejer03_Promedio_Ponderado.dll
+C:\Users\57314\Documents\Portafolio Juan Galindez\Evidencias\Analisis\Tics\Algoritmos y programacion\Ejer03_Promedio_Ponderado\Ejer03_Promedio_Ponderado\bin\Debug\net10.0\Ejer03_Promedio_Ponderado.pdb
+C:\Users\57314\Documents\Portafolio Juan Galindez\Evidencias\Analisis\Tics\Algoritmos y programacion\Ejer03_Promedio_Ponderado\Ejer03_Promedio_Ponderado\obj\Debug\net10.0\Ejer03_Promedio_Ponderado.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\57314\Documents\Portafolio Juan Galindez\Evidencias\Analisis\Tics\Algoritmos y programacion\Ejer03_Promedio_Ponderado\Ejer03_Promedio_Ponderado\obj\Debug\net10.0\Ejer03_Promedio_Ponderado.AssemblyInfoInputs.cache
+C:\Users\57314\Documents\Portafolio Juan Galindez\Evidencias\Analisis\Tics\Algoritmos y programacion\Ejer03_Promedio_Ponderado\Ejer03_Promedio_Ponderado\obj\Debug\net10.0\Ejer03_Promedio_Ponderado.AssemblyInfo.cs
+C:\Users\57314\Documents\Portafolio Juan Galindez\Evidencias\Analisis\Tics\Algoritmos y programacion\Ejer03_Promedio_Ponderado\Ejer03_Promedio_Ponderado\obj\Debug\net10.0\Ejer03_Promedio_Ponderado.csproj.CoreCompileInputs.cache
+C:\Users\57314\Documents\Portafolio Juan Galindez\Evidencias\Analisis\Tics\Algoritmos y programacion\Ejer03_Promedio_Ponderado\Ejer03_Promedio_Ponderado\obj\Debug\net10.0\Ejer03_Promedio_Ponderado.dll
+C:\Users\57314\Documents\Portafolio Juan Galindez\Evidencias\Analisis\Tics\Algoritmos y programacion\Ejer03_Promedio_Ponderado\Ejer03_Promedio_Ponderado\obj\Debug\net10.0\refint\Ejer03_Promedio_Ponderado.dll
+C:\Users\57314\Documents\Portafolio Juan Galindez\Evidencias\Analisis\Tics\Algoritmos y programacion\Ejer03_Promedio_Ponderado\Ejer03_Promedio_Ponderado\obj\Debug\net10.0\Ejer03_Promedio_Ponderado.pdb
+C:\Users\57314\Documents\Portafolio Juan Galindez\Evidencias\Analisis\Tics\Algoritmos y programacion\Ejer03_Promedio_Ponderado\Ejer03_Promedio_Ponderado\obj\Debug\net10.0\Ejer03_Promedio_Ponderado.genruntimeconfig.cache
+C:\Users\57314\Documents\Portafolio Juan Galindez\Evidencias\Analisis\Tics\Algoritmos y programacion\Ejer03_Promedio_Ponderado\Ejer03_Promedio_Ponderado\obj\Debug\net10.0\ref\Ejer03_Promedio_Ponderado.dll
+C:\Users\57314\Documents\Portafolio Juan Galindez\Evidencias\Analisis\Tics\Algoritmos y programacion\Ejer03_Promedio_Ponderado\Ejer03_Promedio_Ponderado\obj\Debug\net10.0\Ejer03_P.CCD7F3DE.Up2Date
