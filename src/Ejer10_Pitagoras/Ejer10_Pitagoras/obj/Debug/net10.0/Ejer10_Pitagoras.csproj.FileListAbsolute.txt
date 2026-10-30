@@ -1,0 +1,16 @@
+C:\ADSO\Ejercicios_Secuenciales\src\Ejer10_Pitagoras\Ejer10_Pitagoras\bin\Debug\net10.0\Ejer10_Pitagoras.exe
+C:\ADSO\Ejercicios_Secuenciales\src\Ejer10_Pitagoras\Ejer10_Pitagoras\bin\Debug\net10.0\Ejer10_Pitagoras.deps.json
+C:\ADSO\Ejercicios_Secuenciales\src\Ejer10_Pitagoras\Ejer10_Pitagoras\bin\Debug\net10.0\Ejer10_Pitagoras.runtimeconfig.json
+C:\ADSO\Ejercicios_Secuenciales\src\Ejer10_Pitagoras\Ejer10_Pitagoras\bin\Debug\net10.0\Ejer10_Pitagoras.dll
+C:\ADSO\Ejercicios_Secuenciales\src\Ejer10_Pitagoras\Ejer10_Pitagoras\bin\Debug\net10.0\Ejer10_Pitagoras.pdb
+C:\ADSO\Ejercicios_Secuenciales\src\Ejer10_Pitagoras\Ejer10_Pitagoras\obj\Debug\net10.0\Ejer10_Pitagoras.GeneratedMSBuildEditorConfig.editorconfig
+C:\ADSO\Ejercicios_Secuenciales\src\Ejer10_Pitagoras\Ejer10_Pitagoras\obj\Debug\net10.0\Ejer10_Pitagoras.AssemblyInfoInputs.cache
+C:\ADSO\Ejercicios_Secuenciales\src\Ejer10_Pitagoras\Ejer10_Pitagoras\obj\Debug\net10.0\Ejer10_Pitagoras.AssemblyInfo.cs
+C:\ADSO\Ejercicios_Secuenciales\src\Ejer10_Pitagoras\Ejer10_Pitagoras\obj\Debug\net10.0\Ejer10_Pitagoras.csproj.CoreCompileInputs.cache
+C:\ADSO\Ejercicios_Secuenciales\src\Ejer10_Pitagoras\Ejer10_Pitagoras\obj\Debug\net10.0\Ejer10_Pitagoras.sourcelink.json
+C:\ADSO\Ejercicios_Secuenciales\src\Ejer10_Pitagoras\Ejer10_Pitagoras\obj\Debug\net10.0\Ejer10_Pitagoras.dll
+C:\ADSO\Ejercicios_Secuenciales\src\Ejer10_Pitagoras\Ejer10_Pitagoras\obj\Debug\net10.0\refint\Ejer10_Pitagoras.dll
+C:\ADSO\Ejercicios_Secuenciales\src\Ejer10_Pitagoras\Ejer10_Pitagoras\obj\Debug\net10.0\Ejer10_Pitagoras.pdb
+C:\ADSO\Ejercicios_Secuenciales\src\Ejer10_Pitagoras\Ejer10_Pitagoras\obj\Debug\net10.0\Ejer10_Pitagoras.genruntimeconfig.cache
+C:\ADSO\Ejercicios_Secuenciales\src\Ejer10_Pitagoras\Ejer10_Pitagoras\obj\Debug\net10.0\ref\Ejer10_Pitagoras.dll
+C:\ADSO\Ejercicios_Secuenciales\src\Ejer10_Pitagoras\Ejer10_Pitagoras\obj\Debug\net10.0\Ejer10_P.24DF9E04.Up2Date
