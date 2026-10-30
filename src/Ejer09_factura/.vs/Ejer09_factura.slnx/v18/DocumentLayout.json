@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\ADSO\\Ejercicios_Secuenciales\\src\\Ejer09_factura\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{67467268-B351-4348-845E-6063FF1C072E}|Ejer09_factura\\Ejer09_factura.csproj|c:\\adso\\ejercicios_secuenciales\\src\\ejer09_factura\\ejer09_factura\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{67467268-B351-4348-845E-6063FF1C072E}|Ejer09_factura\\Ejer09_factura.csproj|solutionrelative:ejer09_factura\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\ADSO\\Ejercicios_Secuenciales\\src\\Ejer09_factura\\Ejer09_factura\\Program.cs",
+              "RelativeDocumentMoniker": "Ejer09_factura\\Program.cs",
+              "ToolTip": "C:\\ADSO\\Ejercicios_Secuenciales\\src\\Ejer09_factura\\Ejer09_factura\\Program.cs",
+              "RelativeToolTip": "Ejer09_factura\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAB1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-30T02:25:11.618Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

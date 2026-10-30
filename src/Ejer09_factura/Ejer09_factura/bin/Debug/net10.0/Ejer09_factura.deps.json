@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v10.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v10.0": {
+      "Ejer09_factura/1.0.0": {
+        "runtime": {
+          "Ejer09_factura.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Ejer09_factura/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
