@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v10.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v10.0": {
+      "Ejer12_invertir_numeros/1.0.0": {
+        "runtime": {
+          "Ejer12_invertir_numeros.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Ejer12_invertir_numeros/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

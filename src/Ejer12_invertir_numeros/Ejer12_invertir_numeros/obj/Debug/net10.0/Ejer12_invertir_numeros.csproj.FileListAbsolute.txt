@@ -1,0 +1,16 @@
+C:\ADSO\Ejercicios_Secuenciales\src\Ejer12_invertir_numeros\Ejer12_invertir_numeros\obj\Debug\net10.0\Ejer12_invertir_numeros.GeneratedMSBuildEditorConfig.editorconfig
+C:\ADSO\Ejercicios_Secuenciales\src\Ejer12_invertir_numeros\Ejer12_invertir_numeros\obj\Debug\net10.0\Ejer12_invertir_numeros.AssemblyInfoInputs.cache
+C:\ADSO\Ejercicios_Secuenciales\src\Ejer12_invertir_numeros\Ejer12_invertir_numeros\obj\Debug\net10.0\Ejer12_invertir_numeros.AssemblyInfo.cs
+C:\ADSO\Ejercicios_Secuenciales\src\Ejer12_invertir_numeros\Ejer12_invertir_numeros\obj\Debug\net10.0\Ejer12_invertir_numeros.csproj.CoreCompileInputs.cache
+C:\ADSO\Ejercicios_Secuenciales\src\Ejer12_invertir_numeros\Ejer12_invertir_numeros\obj\Debug\net10.0\Ejer12_invertir_numeros.sourcelink.json
+C:\ADSO\Ejercicios_Secuenciales\src\Ejer12_invertir_numeros\Ejer12_invertir_numeros\bin\Debug\net10.0\Ejer12_invertir_numeros.exe
+C:\ADSO\Ejercicios_Secuenciales\src\Ejer12_invertir_numeros\Ejer12_invertir_numeros\bin\Debug\net10.0\Ejer12_invertir_numeros.deps.json
+C:\ADSO\Ejercicios_Secuenciales\src\Ejer12_invertir_numeros\Ejer12_invertir_numeros\bin\Debug\net10.0\Ejer12_invertir_numeros.runtimeconfig.json
+C:\ADSO\Ejercicios_Secuenciales\src\Ejer12_invertir_numeros\Ejer12_invertir_numeros\bin\Debug\net10.0\Ejer12_invertir_numeros.dll
+C:\ADSO\Ejercicios_Secuenciales\src\Ejer12_invertir_numeros\Ejer12_invertir_numeros\bin\Debug\net10.0\Ejer12_invertir_numeros.pdb
+C:\ADSO\Ejercicios_Secuenciales\src\Ejer12_invertir_numeros\Ejer12_invertir_numeros\obj\Debug\net10.0\Ejer12_invertir_numeros.dll
+C:\ADSO\Ejercicios_Secuenciales\src\Ejer12_invertir_numeros\Ejer12_invertir_numeros\obj\Debug\net10.0\refint\Ejer12_invertir_numeros.dll
+C:\ADSO\Ejercicios_Secuenciales\src\Ejer12_invertir_numeros\Ejer12_invertir_numeros\obj\Debug\net10.0\Ejer12_invertir_numeros.pdb
+C:\ADSO\Ejercicios_Secuenciales\src\Ejer12_invertir_numeros\Ejer12_invertir_numeros\obj\Debug\net10.0\Ejer12_invertir_numeros.genruntimeconfig.cache
+C:\ADSO\Ejercicios_Secuenciales\src\Ejer12_invertir_numeros\Ejer12_invertir_numeros\obj\Debug\net10.0\ref\Ejer12_invertir_numeros.dll
+C:\ADSO\Ejercicios_Secuenciales\src\Ejer12_invertir_numeros\Ejer12_invertir_numeros\obj\Debug\net10.0\Ejer12_i.F14B1336.Up2Date

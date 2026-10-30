@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\ADSO\\Ejercicios_Secuenciales\\src\\Ejer12_invertir_numeros\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3763886A-3697-46AF-BB90-EB1F3B838E61}|Ejer12_invertir_numeros\\Ejer12_invertir_numeros.csproj|c:\\adso\\ejercicios_secuenciales\\src\\ejer12_invertir_numeros\\ejer12_invertir_numeros\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3763886A-3697-46AF-BB90-EB1F3B838E61}|Ejer12_invertir_numeros\\Ejer12_invertir_numeros.csproj|solutionrelative:ejer12_invertir_numeros\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\ADSO\\Ejercicios_Secuenciales\\src\\Ejer12_invertir_numeros\\Ejer12_invertir_numeros\\Program.cs",
+              "RelativeDocumentMoniker": "Ejer12_invertir_numeros\\Program.cs",
+              "ToolTip": "C:\\ADSO\\Ejercicios_Secuenciales\\src\\Ejer12_invertir_numeros\\Ejer12_invertir_numeros\\Program.cs",
+              "RelativeToolTip": "Ejer12_invertir_numeros\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAA2AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-30T04:30:21.284Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
