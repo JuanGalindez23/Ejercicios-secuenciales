@@ -1,0 +1,15 @@
+C:\Ejercicios-secuenciales\src\Area_perimetro_circulo\Area_perimetro_circulo\obj\Debug\net8.0\Area_perimetro_circulo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Ejercicios-secuenciales\src\Area_perimetro_circulo\Area_perimetro_circulo\obj\Debug\net8.0\Area_perimetro_circulo.AssemblyInfoInputs.cache
+C:\Ejercicios-secuenciales\src\Area_perimetro_circulo\Area_perimetro_circulo\obj\Debug\net8.0\Area_perimetro_circulo.AssemblyInfo.cs
+C:\Ejercicios-secuenciales\src\Area_perimetro_circulo\Area_perimetro_circulo\obj\Debug\net8.0\Area_perimetro_circulo.csproj.CoreCompileInputs.cache
+C:\Ejercicios-secuenciales\src\Area_perimetro_circulo\Area_perimetro_circulo\obj\Debug\net8.0\Area_perimetro_circulo.sourcelink.json
+C:\Ejercicios-secuenciales\src\Area_perimetro_circulo\Area_perimetro_circulo\bin\Debug\net8.0\Area_perimetro_circulo.exe
+C:\Ejercicios-secuenciales\src\Area_perimetro_circulo\Area_perimetro_circulo\bin\Debug\net8.0\Area_perimetro_circulo.deps.json
+C:\Ejercicios-secuenciales\src\Area_perimetro_circulo\Area_perimetro_circulo\bin\Debug\net8.0\Area_perimetro_circulo.runtimeconfig.json
+C:\Ejercicios-secuenciales\src\Area_perimetro_circulo\Area_perimetro_circulo\bin\Debug\net8.0\Area_perimetro_circulo.dll
+C:\Ejercicios-secuenciales\src\Area_perimetro_circulo\Area_perimetro_circulo\bin\Debug\net8.0\Area_perimetro_circulo.pdb
+C:\Ejercicios-secuenciales\src\Area_perimetro_circulo\Area_perimetro_circulo\obj\Debug\net8.0\Area_perimetro_circulo.dll
+C:\Ejercicios-secuenciales\src\Area_perimetro_circulo\Area_perimetro_circulo\obj\Debug\net8.0\refint\Area_perimetro_circulo.dll
+C:\Ejercicios-secuenciales\src\Area_perimetro_circulo\Area_perimetro_circulo\obj\Debug\net8.0\Area_perimetro_circulo.pdb
+C:\Ejercicios-secuenciales\src\Area_perimetro_circulo\Area_perimetro_circulo\obj\Debug\net8.0\Area_perimetro_circulo.genruntimeconfig.cache
+C:\Ejercicios-secuenciales\src\Area_perimetro_circulo\Area_perimetro_circulo\obj\Debug\net8.0\ref\Area_perimetro_circulo.dll
