@@ -1,0 +1,16 @@
+C:\ADSO\Ejercicios_Secuenciales\src\Ejer11_viaje\Ejer11_viaje\bin\Debug\net10.0\Ejer11_viaje.exe
+C:\ADSO\Ejercicios_Secuenciales\src\Ejer11_viaje\Ejer11_viaje\bin\Debug\net10.0\Ejer11_viaje.deps.json
+C:\ADSO\Ejercicios_Secuenciales\src\Ejer11_viaje\Ejer11_viaje\bin\Debug\net10.0\Ejer11_viaje.runtimeconfig.json
+C:\ADSO\Ejercicios_Secuenciales\src\Ejer11_viaje\Ejer11_viaje\bin\Debug\net10.0\Ejer11_viaje.dll
+C:\ADSO\Ejercicios_Secuenciales\src\Ejer11_viaje\Ejer11_viaje\bin\Debug\net10.0\Ejer11_viaje.pdb
+C:\ADSO\Ejercicios_Secuenciales\src\Ejer11_viaje\Ejer11_viaje\obj\Debug\net10.0\Ejer11_viaje.GeneratedMSBuildEditorConfig.editorconfig
+C:\ADSO\Ejercicios_Secuenciales\src\Ejer11_viaje\Ejer11_viaje\obj\Debug\net10.0\Ejer11_viaje.AssemblyInfoInputs.cache
+C:\ADSO\Ejercicios_Secuenciales\src\Ejer11_viaje\Ejer11_viaje\obj\Debug\net10.0\Ejer11_viaje.AssemblyInfo.cs
+C:\ADSO\Ejercicios_Secuenciales\src\Ejer11_viaje\Ejer11_viaje\obj\Debug\net10.0\Ejer11_viaje.csproj.CoreCompileInputs.cache
+C:\ADSO\Ejercicios_Secuenciales\src\Ejer11_viaje\Ejer11_viaje\obj\Debug\net10.0\Ejer11_viaje.sourcelink.json
+C:\ADSO\Ejercicios_Secuenciales\src\Ejer11_viaje\Ejer11_viaje\obj\Debug\net10.0\Ejer11_viaje.dll
+C:\ADSO\Ejercicios_Secuenciales\src\Ejer11_viaje\Ejer11_viaje\obj\Debug\net10.0\refint\Ejer11_viaje.dll
+C:\ADSO\Ejercicios_Secuenciales\src\Ejer11_viaje\Ejer11_viaje\obj\Debug\net10.0\Ejer11_viaje.pdb
+C:\ADSO\Ejercicios_Secuenciales\src\Ejer11_viaje\Ejer11_viaje\obj\Debug\net10.0\Ejer11_viaje.genruntimeconfig.cache
+C:\ADSO\Ejercicios_Secuenciales\src\Ejer11_viaje\Ejer11_viaje\obj\Debug\net10.0\ref\Ejer11_viaje.dll
+C:\ADSO\Ejercicios_Secuenciales\src\Ejer11_viaje\Ejer11_viaje\obj\Debug\net10.0\Ejer11_v.D49462D1.Up2Date

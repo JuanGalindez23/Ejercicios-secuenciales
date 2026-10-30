@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v10.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v10.0": {
+      "Ejer11_viaje/1.0.0": {
+        "runtime": {
+          "Ejer11_viaje.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Ejer11_viaje/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
