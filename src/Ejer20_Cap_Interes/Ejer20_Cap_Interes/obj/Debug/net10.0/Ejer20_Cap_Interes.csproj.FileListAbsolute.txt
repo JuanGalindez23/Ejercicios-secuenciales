@@ -1,0 +1,16 @@
+C:\ADSO\Ejercicios_Secuenciales\src\Ejer20_Cap_Interes\Ejer20_Cap_Interes\obj\Debug\net10.0\Ejer20_Cap_Interes.GeneratedMSBuildEditorConfig.editorconfig
+C:\ADSO\Ejercicios_Secuenciales\src\Ejer20_Cap_Interes\Ejer20_Cap_Interes\obj\Debug\net10.0\Ejer20_Cap_Interes.AssemblyInfoInputs.cache
+C:\ADSO\Ejercicios_Secuenciales\src\Ejer20_Cap_Interes\Ejer20_Cap_Interes\obj\Debug\net10.0\Ejer20_Cap_Interes.AssemblyInfo.cs
+C:\ADSO\Ejercicios_Secuenciales\src\Ejer20_Cap_Interes\Ejer20_Cap_Interes\obj\Debug\net10.0\Ejer20_Cap_Interes.csproj.CoreCompileInputs.cache
+C:\ADSO\Ejercicios_Secuenciales\src\Ejer20_Cap_Interes\Ejer20_Cap_Interes\obj\Debug\net10.0\Ejer20_Cap_Interes.sourcelink.json
+C:\ADSO\Ejercicios_Secuenciales\src\Ejer20_Cap_Interes\Ejer20_Cap_Interes\bin\Debug\net10.0\Ejer20_Cap_Interes.exe
+C:\ADSO\Ejercicios_Secuenciales\src\Ejer20_Cap_Interes\Ejer20_Cap_Interes\bin\Debug\net10.0\Ejer20_Cap_Interes.deps.json
+C:\ADSO\Ejercicios_Secuenciales\src\Ejer20_Cap_Interes\Ejer20_Cap_Interes\bin\Debug\net10.0\Ejer20_Cap_Interes.runtimeconfig.json
+C:\ADSO\Ejercicios_Secuenciales\src\Ejer20_Cap_Interes\Ejer20_Cap_Interes\bin\Debug\net10.0\Ejer20_Cap_Interes.dll
+C:\ADSO\Ejercicios_Secuenciales\src\Ejer20_Cap_Interes\Ejer20_Cap_Interes\bin\Debug\net10.0\Ejer20_Cap_Interes.pdb
+C:\ADSO\Ejercicios_Secuenciales\src\Ejer20_Cap_Interes\Ejer20_Cap_Interes\obj\Debug\net10.0\Ejer20_Cap_Interes.dll
+C:\ADSO\Ejercicios_Secuenciales\src\Ejer20_Cap_Interes\Ejer20_Cap_Interes\obj\Debug\net10.0\refint\Ejer20_Cap_Interes.dll
+C:\ADSO\Ejercicios_Secuenciales\src\Ejer20_Cap_Interes\Ejer20_Cap_Interes\obj\Debug\net10.0\Ejer20_Cap_Interes.pdb
+C:\ADSO\Ejercicios_Secuenciales\src\Ejer20_Cap_Interes\Ejer20_Cap_Interes\obj\Debug\net10.0\Ejer20_Cap_Interes.genruntimeconfig.cache
+C:\ADSO\Ejercicios_Secuenciales\src\Ejer20_Cap_Interes\Ejer20_Cap_Interes\obj\Debug\net10.0\ref\Ejer20_Cap_Interes.dll
+C:\ADSO\Ejercicios_Secuenciales\src\Ejer20_Cap_Interes\Ejer20_Cap_Interes\obj\Debug\net10.0\Ejer20_C.C1DF7674.Up2Date
