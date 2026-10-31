@@ -1,0 +1,16 @@
+C:\ADSO\Ejercicios_Secuenciales\src\Ejer17_Negocio\Ejer17_Negocio\bin\Debug\net10.0\Ejer17_Negocio.exe
+C:\ADSO\Ejercicios_Secuenciales\src\Ejer17_Negocio\Ejer17_Negocio\bin\Debug\net10.0\Ejer17_Negocio.deps.json
+C:\ADSO\Ejercicios_Secuenciales\src\Ejer17_Negocio\Ejer17_Negocio\bin\Debug\net10.0\Ejer17_Negocio.runtimeconfig.json
+C:\ADSO\Ejercicios_Secuenciales\src\Ejer17_Negocio\Ejer17_Negocio\bin\Debug\net10.0\Ejer17_Negocio.dll
+C:\ADSO\Ejercicios_Secuenciales\src\Ejer17_Negocio\Ejer17_Negocio\bin\Debug\net10.0\Ejer17_Negocio.pdb
+C:\ADSO\Ejercicios_Secuenciales\src\Ejer17_Negocio\Ejer17_Negocio\obj\Debug\net10.0\Ejer17_Negocio.GeneratedMSBuildEditorConfig.editorconfig
+C:\ADSO\Ejercicios_Secuenciales\src\Ejer17_Negocio\Ejer17_Negocio\obj\Debug\net10.0\Ejer17_Negocio.AssemblyInfoInputs.cache
+C:\ADSO\Ejercicios_Secuenciales\src\Ejer17_Negocio\Ejer17_Negocio\obj\Debug\net10.0\Ejer17_Negocio.AssemblyInfo.cs
+C:\ADSO\Ejercicios_Secuenciales\src\Ejer17_Negocio\Ejer17_Negocio\obj\Debug\net10.0\Ejer17_Negocio.csproj.CoreCompileInputs.cache
+C:\ADSO\Ejercicios_Secuenciales\src\Ejer17_Negocio\Ejer17_Negocio\obj\Debug\net10.0\Ejer17_Negocio.sourcelink.json
+C:\ADSO\Ejercicios_Secuenciales\src\Ejer17_Negocio\Ejer17_Negocio\obj\Debug\net10.0\Ejer17_Negocio.dll
+C:\ADSO\Ejercicios_Secuenciales\src\Ejer17_Negocio\Ejer17_Negocio\obj\Debug\net10.0\refint\Ejer17_Negocio.dll
+C:\ADSO\Ejercicios_Secuenciales\src\Ejer17_Negocio\Ejer17_Negocio\obj\Debug\net10.0\Ejer17_Negocio.pdb
+C:\ADSO\Ejercicios_Secuenciales\src\Ejer17_Negocio\Ejer17_Negocio\obj\Debug\net10.0\Ejer17_Negocio.genruntimeconfig.cache
+C:\ADSO\Ejercicios_Secuenciales\src\Ejer17_Negocio\Ejer17_Negocio\obj\Debug\net10.0\ref\Ejer17_Negocio.dll
+C:\ADSO\Ejercicios_Secuenciales\src\Ejer17_Negocio\Ejer17_Negocio\obj\Debug\net10.0\Ejer17_N.F3B25E8E.Up2Date
