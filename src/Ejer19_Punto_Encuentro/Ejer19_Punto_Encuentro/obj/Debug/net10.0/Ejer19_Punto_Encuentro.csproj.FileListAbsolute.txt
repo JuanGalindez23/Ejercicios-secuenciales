@@ -1,0 +1,16 @@
+C:\ADSO\Ejercicios_Secuenciales\src\Ejer19_Punto_Encuentro\Ejer19_Punto_Encuentro\bin\Debug\net10.0\Ejer19_Punto_Encuentro.exe
+C:\ADSO\Ejercicios_Secuenciales\src\Ejer19_Punto_Encuentro\Ejer19_Punto_Encuentro\bin\Debug\net10.0\Ejer19_Punto_Encuentro.deps.json
+C:\ADSO\Ejercicios_Secuenciales\src\Ejer19_Punto_Encuentro\Ejer19_Punto_Encuentro\bin\Debug\net10.0\Ejer19_Punto_Encuentro.runtimeconfig.json
+C:\ADSO\Ejercicios_Secuenciales\src\Ejer19_Punto_Encuentro\Ejer19_Punto_Encuentro\bin\Debug\net10.0\Ejer19_Punto_Encuentro.dll
+C:\ADSO\Ejercicios_Secuenciales\src\Ejer19_Punto_Encuentro\Ejer19_Punto_Encuentro\bin\Debug\net10.0\Ejer19_Punto_Encuentro.pdb
+C:\ADSO\Ejercicios_Secuenciales\src\Ejer19_Punto_Encuentro\Ejer19_Punto_Encuentro\obj\Debug\net10.0\Ejer19_Punto_Encuentro.GeneratedMSBuildEditorConfig.editorconfig
+C:\ADSO\Ejercicios_Secuenciales\src\Ejer19_Punto_Encuentro\Ejer19_Punto_Encuentro\obj\Debug\net10.0\Ejer19_Punto_Encuentro.AssemblyInfoInputs.cache
+C:\ADSO\Ejercicios_Secuenciales\src\Ejer19_Punto_Encuentro\Ejer19_Punto_Encuentro\obj\Debug\net10.0\Ejer19_Punto_Encuentro.AssemblyInfo.cs
+C:\ADSO\Ejercicios_Secuenciales\src\Ejer19_Punto_Encuentro\Ejer19_Punto_Encuentro\obj\Debug\net10.0\Ejer19_Punto_Encuentro.csproj.CoreCompileInputs.cache
+C:\ADSO\Ejercicios_Secuenciales\src\Ejer19_Punto_Encuentro\Ejer19_Punto_Encuentro\obj\Debug\net10.0\Ejer19_Punto_Encuentro.sourcelink.json
+C:\ADSO\Ejercicios_Secuenciales\src\Ejer19_Punto_Encuentro\Ejer19_Punto_Encuentro\obj\Debug\net10.0\Ejer19_Punto_Encuentro.dll
+C:\ADSO\Ejercicios_Secuenciales\src\Ejer19_Punto_Encuentro\Ejer19_Punto_Encuentro\obj\Debug\net10.0\refint\Ejer19_Punto_Encuentro.dll
+C:\ADSO\Ejercicios_Secuenciales\src\Ejer19_Punto_Encuentro\Ejer19_Punto_Encuentro\obj\Debug\net10.0\Ejer19_Punto_Encuentro.pdb
+C:\ADSO\Ejercicios_Secuenciales\src\Ejer19_Punto_Encuentro\Ejer19_Punto_Encuentro\obj\Debug\net10.0\Ejer19_Punto_Encuentro.genruntimeconfig.cache
+C:\ADSO\Ejercicios_Secuenciales\src\Ejer19_Punto_Encuentro\Ejer19_Punto_Encuentro\obj\Debug\net10.0\ref\Ejer19_Punto_Encuentro.dll
+C:\ADSO\Ejercicios_Secuenciales\src\Ejer19_Punto_Encuentro\Ejer19_Punto_Encuentro\obj\Debug\net10.0\Ejer19_P.10193507.Up2Date

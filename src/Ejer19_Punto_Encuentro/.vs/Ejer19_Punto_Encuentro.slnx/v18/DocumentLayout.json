@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\ADSO\\Ejercicios_Secuenciales\\src\\Ejer19_Punto_Encuentro\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B756E3E0-451D-4554-977E-350D5E35FEDF}|Ejer19_Punto_Encuentro\\Ejer19_Punto_Encuentro.csproj|c:\\adso\\ejercicios_secuenciales\\src\\ejer19_punto_encuentro\\ejer19_punto_encuentro\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B756E3E0-451D-4554-977E-350D5E35FEDF}|Ejer19_Punto_Encuentro\\Ejer19_Punto_Encuentro.csproj|solutionrelative:ejer19_punto_encuentro\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\ADSO\\Ejercicios_Secuenciales\\src\\Ejer19_Punto_Encuentro\\Ejer19_Punto_Encuentro\\Program.cs",
+              "RelativeDocumentMoniker": "Ejer19_Punto_Encuentro\\Program.cs",
+              "ToolTip": "C:\\ADSO\\Ejercicios_Secuenciales\\src\\Ejer19_Punto_Encuentro\\Ejer19_Punto_Encuentro\\Program.cs",
+              "RelativeToolTip": "Ejer19_Punto_Encuentro\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAABIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-31T20:33:32.816Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
